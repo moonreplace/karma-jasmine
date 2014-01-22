@@ -1,0 +1,11 @@
+{
+  "name": "karma_jasmine",
+  "version": "0.0.0",
+  "description": "example for karma and jasmine",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Huiming Dai (Chris)",
+  "license": "MIT"
+}
